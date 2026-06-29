@@ -35,11 +35,8 @@ The statics in `main.rs` are named so you can grep for them:
 
 ## Prerequisites (one time)
 
-Install Docker Desktop for Mac:
-
-```bash
-brew install --cask docker
-```
+Download and install **Docker Desktop for Mac** from the official page:
+<https://www.docker.com/products/docker-desktop>
 
 Then launch Docker Desktop once (from Applications) so the background
 Linux VM starts. Check it's ready:
